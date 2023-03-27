@@ -1,6 +1,6 @@
 # Learn Rust with tests
 
-`通过Rust语言学习测试驱动开发`参考了`Learn Go with tests`，感谢其为这个系列教程提供了大纲，否则我不知道该以一个结构介绍Rust,所以在一些意义方面会趋于一样，毕竟都是通过测试来学习一门语言。
+`通过Rust语言学习测试驱动开发`参考了`Learn Go with tests`，感谢其为这个系列教程提供了大纲，否则我不知道该以一个结构介绍Rust，所以在一些意义方面会趋于一样，毕竟都是通过测试来学习一门语言。
 
 + 通过编写测试学习Rust语言
 + **为测试驱动开发打下基础**。Rust是学习测试驱动开发的优秀语言，因为它高效安全，方便测试
@@ -33,6 +33,6 @@
 
 # 反馈
 
-+ 在这里提交issue/PR
++ 在这里提交[issue/PR](https://github.com/SunsJay/learn-rust-with-tests)
 
 作者： [SunsJay](https://github.com/SunsJay)
